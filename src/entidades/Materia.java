@@ -20,6 +20,7 @@ public class Materia {
 		super();
 		parciales = new ArrayList<Parcial>();
 		trabajos_practicos= new ArrayList<TP>();
+		//hola
 	}
 	
 	public Materia(String nombre, int id, int anio, List<Parcial> parciales, List<TP> trabajos_practicos) {
